@@ -1,0 +1,181 @@
+month,department,category,amount
+2023-01,Sales,Operating Expense,-51061.71
+2023-01,Operations,Operating Expense,-51307.36
+2023-01,Engineering,Operating Expense,-31479.2
+2023-01,Administration,Operating Expense,-52470.17
+2023-01,Sales,Revenue,686584.61
+2023-02,Sales,Operating Expense,-58041.49
+2023-02,Operations,Operating Expense,-45531.06
+2023-02,Engineering,Operating Expense,-59755.45
+2023-02,Administration,Operating Expense,-42749.28
+2023-02,Sales,Revenue,720175.99
+2023-03,Sales,Operating Expense,-43966.83
+2023-03,Operations,Operating Expense,-58974.74
+2023-03,Engineering,Operating Expense,-57675.38
+2023-03,Administration,Operating Expense,-63190.19
+2023-03,Sales,Revenue,654500.81
+2023-04,Sales,Operating Expense,-63672.82
+2023-04,Operations,Operating Expense,-56031.31
+2023-04,Engineering,Operating Expense,-56543.96
+2023-04,Administration,Operating Expense,-33074.71
+2023-04,Sales,Revenue,758318.23
+2023-05,Sales,Operating Expense,-43227.35
+2023-05,Operations,Operating Expense,-45014.19
+2023-05,Engineering,Operating Expense,-54359.49
+2023-05,Administration,Operating Expense,-34048.85
+2023-05,Sales,Revenue,785963.64
+2023-06,Sales,Operating Expense,-64963.92
+2023-06,Operations,Operating Expense,-36521.6
+2023-06,Engineering,Operating Expense,-41058.36
+2023-06,Administration,Operating Expense,-62636.56
+2023-06,Sales,Revenue,709712.09
+2023-07,Sales,Operating Expense,-46663.66
+2023-07,Operations,Operating Expense,-32428.61
+2023-07,Engineering,Operating Expense,-53358.79
+2023-07,Administration,Operating Expense,-39565.54
+2023-07,Sales,Revenue,835295.55
+2023-08,Sales,Operating Expense,-33004.34
+2023-08,Operations,Operating Expense,-51645.99
+2023-08,Engineering,Operating Expense,-31474.15
+2023-08,Administration,Operating Expense,-55829.06
+2023-08,Sales,Revenue,739759.98
+2023-09,Sales,Operating Expense,-63423.38
+2023-09,Operations,Operating Expense,-31160.42
+2023-09,Engineering,Operating Expense,-35214.86
+2023-09,Administration,Operating Expense,-37549.47
+2023-09,Sales,Revenue,715817.94
+2023-10,Sales,Operating Expense,-36962.99
+2023-10,Operations,Operating Expense,-53511.48
+2023-10,Engineering,Operating Expense,-33161.61
+2023-10,Administration,Operating Expense,-31089.47
+2023-10,Sales,Revenue,617848.01
+2023-11,Sales,Operating Expense,-53438.62
+2023-11,Operations,Operating Expense,-60587.42
+2023-11,Engineering,Operating Expense,-45551.18
+2023-11,Administration,Operating Expense,-43253.98
+2023-11,Sales,Revenue,733765.61
+2023-12,Sales,Operating Expense,-57300.0
+2023-12,Operations,Operating Expense,-63676.69
+2023-12,Engineering,Operating Expense,-59064.57
+2023-12,Administration,Operating Expense,-51192.33
+2023-12,Sales,Revenue,836136.09
+2024-01,Sales,Operating Expense,-32583.49
+2024-01,Operations,Operating Expense,-48140.47
+2024-01,Engineering,Operating Expense,-58345.06
+2024-01,Administration,Operating Expense,-31195.36
+2024-01,Sales,Revenue,622302.42
+2024-02,Sales,Operating Expense,-31935.17
+2024-02,Operations,Operating Expense,-36883.63
+2024-02,Engineering,Operating Expense,-39456.2
+2024-02,Administration,Operating Expense,-36337.16
+2024-02,Sales,Revenue,638323.82
+2024-03,Sales,Operating Expense,-38532.55
+2024-03,Operations,Operating Expense,-31893.66
+2024-03,Engineering,Operating Expense,-51145.63
+2024-03,Administration,Operating Expense,-50918.21
+2024-03,Sales,Revenue,830533.96
+2024-04,Sales,Operating Expense,-51339.03
+2024-04,Operations,Operating Expense,-33797.38
+2024-04,Engineering,Operating Expense,-61495.88
+2024-04,Administration,Operating Expense,-45425.87
+2024-04,Sales,Revenue,663553.1
+2024-05,Sales,Operating Expense,-62391.62
+2024-05,Operations,Operating Expense,-49276.59
+2024-05,Engineering,Operating Expense,-45426.69
+2024-05,Administration,Operating Expense,-56624.23
+2024-05,Sales,Revenue,668129.06
+2024-06,Sales,Operating Expense,-57881.28
+2024-06,Operations,Operating Expense,-54837.83
+2024-06,Engineering,Operating Expense,-55756.58
+2024-06,Administration,Operating Expense,-33811.48
+2024-06,Sales,Revenue,680822.39
+2024-07,Sales,Operating Expense,-63681.55
+2024-07,Operations,Operating Expense,-35381.16
+2024-07,Engineering,Operating Expense,-52650.81
+2024-07,Administration,Operating Expense,-61463.83
+2024-07,Sales,Revenue,699189.51
+2024-08,Sales,Operating Expense,-44789.01
+2024-08,Operations,Operating Expense,-42279.3
+2024-08,Engineering,Operating Expense,-45191.36
+2024-08,Administration,Operating Expense,-36038.03
+2024-08,Sales,Revenue,792444.09
+2024-09,Sales,Operating Expense,-62364.77
+2024-09,Operations,Operating Expense,-45994.78
+2024-09,Engineering,Operating Expense,-63112.85
+2024-09,Administration,Operating Expense,-62171.77
+2024-09,Sales,Revenue,838533.24
+2024-10,Sales,Operating Expense,-30746.4
+2024-10,Operations,Operating Expense,-49079.4
+2024-10,Engineering,Operating Expense,-34407.62
+2024-10,Administration,Operating Expense,-54333.41
+2024-10,Sales,Revenue,610593.35
+2024-11,Sales,Operating Expense,-61580.36
+2024-11,Operations,Operating Expense,-45876.61
+2024-11,Engineering,Operating Expense,-31392.31
+2024-11,Administration,Operating Expense,-51537.3
+2024-11,Sales,Revenue,629240.07
+2024-12,Sales,Operating Expense,-54019.83
+2024-12,Operations,Operating Expense,-41083.68
+2024-12,Engineering,Operating Expense,-44313.95
+2024-12,Administration,Operating Expense,-30951.41
+2024-12,Sales,Revenue,699141.83
+2025-01,Sales,Operating Expense,-64462.22
+2025-01,Operations,Operating Expense,-56081.11
+2025-01,Engineering,Operating Expense,-48733.91
+2025-01,Administration,Operating Expense,-41164.01
+2025-01,Sales,Revenue,680698.89
+2025-02,Sales,Operating Expense,-44638.5
+2025-02,Operations,Operating Expense,-38059.94
+2025-02,Engineering,Operating Expense,-43939.12
+2025-02,Administration,Operating Expense,-47919.61
+2025-02,Sales,Revenue,619623.07
+2025-03,Sales,Operating Expense,-37966.38
+2025-03,Operations,Operating Expense,-57035.38
+2025-03,Engineering,Operating Expense,-34068.93
+2025-03,Administration,Operating Expense,-45546.8
+2025-03,Sales,Revenue,701757.11
+2025-04,Sales,Operating Expense,-34976.64
+2025-04,Operations,Operating Expense,-46917.83
+2025-04,Engineering,Operating Expense,-39810.38
+2025-04,Administration,Operating Expense,-40477.04
+2025-04,Sales,Revenue,830701.48
+2025-05,Sales,Operating Expense,-32172.29
+2025-05,Operations,Operating Expense,-39036.41
+2025-05,Engineering,Operating Expense,-33935.28
+2025-05,Administration,Operating Expense,-41279.85
+2025-05,Sales,Revenue,799205.12
+2025-06,Sales,Operating Expense,-32633.92
+2025-06,Operations,Operating Expense,-33874.75
+2025-06,Engineering,Operating Expense,-56092.95
+2025-06,Administration,Operating Expense,-43578.16
+2025-06,Sales,Revenue,627087.29
+2025-07,Sales,Operating Expense,-61245.04
+2025-07,Operations,Operating Expense,-32858.81
+2025-07,Engineering,Operating Expense,-61927.0
+2025-07,Administration,Operating Expense,-44572.87
+2025-07,Sales,Revenue,719692.79
+2025-08,Sales,Operating Expense,-41916.74
+2025-08,Operations,Operating Expense,-57545.72
+2025-08,Engineering,Operating Expense,-40983.29
+2025-08,Administration,Operating Expense,-31841.95
+2025-08,Sales,Revenue,692370.65
+2025-09,Sales,Operating Expense,-39974.1
+2025-09,Operations,Operating Expense,-57713.73
+2025-09,Engineering,Operating Expense,-52499.57
+2025-09,Administration,Operating Expense,-53450.35
+2025-09,Sales,Revenue,762672.88
+2025-10,Sales,Operating Expense,-63261.41
+2025-10,Operations,Operating Expense,-46151.83
+2025-10,Engineering,Operating Expense,-55601.06
+2025-10,Administration,Operating Expense,-37070.94
+2025-10,Sales,Revenue,689074.55
+2025-11,Sales,Operating Expense,-63504.0
+2025-11,Operations,Operating Expense,-57749.34
+2025-11,Engineering,Operating Expense,-32166.43
+2025-11,Administration,Operating Expense,-39483.31
+2025-11,Sales,Revenue,722536.98
+2025-12,Sales,Operating Expense,-63922.62
+2025-12,Operations,Operating Expense,-35462.58
+2025-12,Engineering,Operating Expense,-57703.61
+2025-12,Administration,Operating Expense,-51308.74
+2025-12,Sales,Revenue,767534.22

@@ -1,0 +1,10 @@
+dataset,rows,business_meaning
+customers,60,Master or subledger dimension table.
+products,4,Master or subledger dimension table.
+vendors,20,Master or subledger dimension table.
+transactions,5184,Signed general-ledger activity; negative revenue can be credits/refunds.
+cash_flow,108,"Monthly operating, investing, and financing cash movements."
+balance_sheet,36,Month-end financial position.
+accounts_receivable,120,Master or subledger dimension table.
+accounts_payable,100,Master or subledger dimension table.
+budget,180,Monthly budget by department/category.
