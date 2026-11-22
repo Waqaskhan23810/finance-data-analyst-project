@@ -3,6 +3,11 @@
 An end-to-end Finance Data Analyst portfolio project for **Meridian Industrial Systems**, a fictional B2B manufacturer. It combines reproducible synthetic financial data, Python analytics, PostgreSQL queries, teaching notebooks, automated tests, and a Streamlit dashboard.
 
 [![Deploy on Streamlit Community Cloud](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/)
+[![Live Dashboard](https://img.shields.io/badge/Live%20Dashboard-Open%20App-FF4B4B?logo=streamlit&logoColor=white)](https://finance-data-analyst-project-041.streamlit.app/)
+
+## 🚀 Live Dashboard
+
+**[Open the live Financial Performance Intelligence Dashboard →](https://finance-data-analyst-project-041.streamlit.app/)**
 
 > **Data disclosure:** every dataset is synthetic. It is not a public-company filing, audited information, or a real-business conclusion.
 
@@ -75,6 +80,8 @@ Click the **Deploy on Streamlit Community Cloud** button above, sign in with Git
 | Entry point | `dashboard/app.py` |
 
 After the first deployment, Streamlit provides a unique public `streamlit.app` URL. Add that URL to this README's deployment badge after it is live so recruiters can open the dashboard directly.
+
+**Live app:** [https://finance-data-analyst-project-041.streamlit.app/](https://finance-data-analyst-project-041.streamlit.app/)
 
 ## Validation and deployment
 
