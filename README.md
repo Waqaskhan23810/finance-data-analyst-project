@@ -4,6 +4,7 @@ An end-to-end Finance Data Analyst portfolio project for **Meridian Industrial S
 
 [![Deploy on Streamlit Community Cloud](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/)
 [![Live Dashboard](https://img.shields.io/badge/Live%20Dashboard-Open%20App-FF4B4B?logo=streamlit&logoColor=white)](https://finance-data-analyst-project-041.streamlit.app/)
+[![Finance analytics CI](https://github.com/Waqaskhan23810/finance-data-analyst-project/actions/workflows/ci.yml/badge.svg)](https://github.com/Waqaskhan23810/finance-data-analyst-project/actions/workflows/ci.yml)
 
 ## 🚀 Live Dashboard
 
@@ -82,6 +83,15 @@ Click the **Deploy on Streamlit Community Cloud** button above, sign in with Git
 After the first deployment, Streamlit provides a unique public `streamlit.app` URL. Add that URL to this README's deployment badge after it is live so recruiters can open the dashboard directly.
 
 **Live app:** [https://finance-data-analyst-project-041.streamlit.app/](https://finance-data-analyst-project-041.streamlit.app/)
+
+## CI/CD and deployment
+
+This project uses a practical CI/CD flow:
+
+1. **Continuous Integration (CI):** each pull request and every push to `main` runs GitHub Actions. It installs dependencies, regenerates the deterministic finance data, confirms committed datasets are reproducible, executes tests, and checks Python syntax.
+2. **Continuous Delivery (CD):** when CI passes and changes are on `main`, Streamlit Community Cloud detects the GitHub update and automatically deploys the dashboard to the live URL above.
+
+This is the recommended portfolio setup because it prevents broken code or altered datasets from reaching the public dashboard. The GitHub Actions badge at the top of this README shows the latest CI status.
 
 ## Validation and deployment
 
